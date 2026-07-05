@@ -1,0 +1,1 @@
+{"name":"test-market","owner":{"name":"seoyeong"},"plugins":[{"name":"moodboard-plugin","source":"./plugins/moodboard-plugin","description":"Collect Pinterest reference/moodboard images by keyword, as image files or a link document","version":"1.0.0"}]}
